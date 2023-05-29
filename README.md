@@ -31,4 +31,11 @@ It should allow the user proceed to entering a new recipe.
 
 Output summary example:
 Recipe name: Beef stew
+Ingredient name: Beef chops
+Ingredient name: Tomato
+Ingredient name: Onion
+Ingredient name: Water
+Ingredient name: Olive oil
+Quantity: 5kg
+
 
