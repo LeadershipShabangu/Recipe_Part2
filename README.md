@@ -29,4 +29,6 @@ The user must be notified when the total calories exceed 300.
 Then allow the user reset all details.
 It should allow the user proceed to entering a new recipe.
 
+Output summary example:
+Recipe name: Beef stew
 
