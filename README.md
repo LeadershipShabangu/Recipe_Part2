@@ -8,9 +8,13 @@ Enter the quantity
 *****************************************
 The output must look like this:
 1-Enter recipe name
+// The user must type "Finish" stop code
 2- Enter ingredient name
+// The user must type "Finish" stop code
 3-Disply recipe
+// The user must type "Finish" stop code
 4-Choose recipe to display 
+// The user must type "Finish" stop code
 5- Exit program
 -Press 1 to clear all data
 -Press 2 to cancel and get back to menu
