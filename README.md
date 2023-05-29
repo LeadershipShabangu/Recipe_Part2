@@ -26,4 +26,7 @@ Therefore for part 2 the app will prompt the user to:
 
 After there, the app should the calculation of all ingredients in a recipe
 The user must be notified when the total calories exceed 300.
-Then allow the user reset all details
+Then allow the user reset all details.
+It should allow the user proceed to entering a new recipe.
+
+
